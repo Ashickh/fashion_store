@@ -64,5 +64,5 @@ li{
     height: 400px;
 }
 #cards:hover{
-    
+    transform: scale(1.1);
 }
